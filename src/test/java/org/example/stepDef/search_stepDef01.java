@@ -49,7 +49,7 @@ public class search_stepDef01 {
             for (WebElement result : searchResults1) {
                 // Verify that each search result contains the word "acer" in its title or description
                 String resultText = result.getText().toLowerCase();
-                Assert.assertTrue(resultText.contains("acer"), "Search result does not contain 'acer': " + resultText);
+                Assert.assertTrue(resultText.contains("acer"), "Not all search results contain 'Acer', but I found a product with this description : " + resultText);
             }
 
             // Print validation result
