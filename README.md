@@ -1,5 +1,5 @@
-# Sprints.ai
-
+# Sprints.ai Assessment
+![Google Logo](https://images.wuzzuf-data.net/files/company_logo/Sprints-ai-Egypt-44269-1646306866-og.png)
 
 ## E-commerce Website Testing with Selenium Automation
 
@@ -18,8 +18,11 @@ https://egyptlaptop.com/
  The timeframe for completing this project is 3-5 days.
 ## Requirements
 Selenium Test Automation:
+
 Automate 3 selected test cases using Selenium, focusing on simplicity and coverage of critical functionalities.
+
 Ensure scripts are robust and can handle dynamic content and user interactions.
+
 Push the code to GitHub and create a README file.
 
 ## Test Cases
@@ -40,5 +43,6 @@ Push the code to GitHub and create a README file.
 - Perform a search for a specific product using the search bar.
 - Select one of the search results.
 - Verify that the product details page is loaded with accurate information.
-
+ ## Report Result
+![Screenshot 2024-03-03 140741](https://github.com/BassemGalal/Sprints.ai_Task/assets/115722436/4ddd96fa-e110-425d-b237-3f40b1b0b2bc)
 
