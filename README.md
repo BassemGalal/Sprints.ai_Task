@@ -26,19 +26,19 @@ Ensure scripts are robust and can handle dynamic content and user interactions.
 Push the code to GitHub and create a README file.
 
 ## Test Cases
--Category Browsing:
+Category Browsing:
 
 - Navigate to the "Categories" section.
 - Select a category from the dropdown menu.
 - Verify that the correct category page is loaded with relevant products.
 
--Product Browsing:
+Product Browsing:
 
 - Navigate to the "Products" section.
 - Click on a product to view its details.
 - Verify that the product details page is loaded with accurate information.
 
--Product Search:
+Product Search:
 
 - Perform a search for a specific product using the search bar.
 - Select one of the search results.
